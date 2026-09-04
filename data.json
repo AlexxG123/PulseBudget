@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "date": "2026-09-04",
+        "description": "foodsita deli",
+        "category": "Food",
+        "amount": 16.0,
+        "kind": "Expense"
+    },
+    {
+        "id": 2,
+        "date": "2026-09-04",
+        "description": "salary",
+        "category": "Salary",
+        "amount": 250.0,
+        "kind": "Income"
+    },
+    {
+        "id": 3,
+        "date": "2026-09-04",
+        "description": "Cinema",
+        "category": "Entertainment",
+        "amount": 40.0,
+        "kind": "Expense"
+    },
+    {
+        "id": 5,
+        "date": "2026-09-04",
+        "description": "Supermarket",
+        "category": "Food",
+        "amount": 150.0,
+        "kind": "Expense"
+    },
+    {
+        "id": 6,
+        "date": "2026-09-04",
+        "description": "Clothes",
+        "category": "Other",
+        "amount": 40.0,
+        "kind": "Expense"
+    }
+]
